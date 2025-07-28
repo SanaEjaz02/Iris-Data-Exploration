@@ -18,8 +18,9 @@ This notebook explores and visualizes the famous Iris flower dataset using Pytho
 
 📁 How to Use
 You can open the notebook using [Google Colab](https://colab.research.google.com/) or download the `.ipynb` file.
+📸 Sample Output :
 
-📸 Sample Output
+
 ![scatter](https://upload.wikimedia.org/wikipedia/commons/5/56/Iris_dataset_scatterplot.svg)
 
 ---
